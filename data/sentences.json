@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -6,7 +7,7 @@
     "english": "Wake up, baby.",
     "chinese": "宝贝，起床啦。",
     "action": "轻轻拍拍孩子，拉开窗帘。",
-    "response": "孩子睁眼、坐起来。",
+    "response": "睁眼、坐起来。",
     "audio": "wake-up-baby.mp3"
   },
   {
@@ -16,17 +17,87 @@
     "english": "Open your eyes.",
     "chinese": "睁开眼睛。",
     "action": "指指眼睛，做睁眼动作。",
-    "response": "孩子模仿睁眼。",
+    "response": "模仿睁眼。",
     "audio": "open-your-eyes.mp3"
   },
   {
     "id": 3,
     "age": "1-4岁",
-    "scene": "穿衣",
-    "english": "Put on your shoes.",
-    "chinese": "穿上你的鞋子。",
-    "action": "把鞋子放到孩子脚边。",
-    "response": "孩子伸脚、穿鞋。",
-    "audio": "put-on-your-shoes.mp3"
+    "scene": "起床",
+    "english": "Stretch your arms.",
+    "chinese": "伸伸胳膊。",
+    "action": "双手向上伸展。",
+    "response": "跟着伸胳膊。",
+    "audio": "stretch-your-arms.mp3"
+  },
+  {
+    "id": 4,
+    "age": "1-4岁",
+    "scene": "起床",
+    "english": "Sit up, please.",
+    "chinese": "请坐起来。",
+    "action": "扶孩子慢慢坐起。",
+    "response": "坐起来。",
+    "audio": "sit-up-please.mp3"
+  },
+  {
+    "id": 5,
+    "age": "2-5岁",
+    "scene": "起床",
+    "english": "Let’s get out of bed.",
+    "chinese": "我们下床吧。",
+    "action": "指向床边，伸手扶孩子。",
+    "response": "下床。",
+    "audio": "lets-get-out-of-bed.mp3"
+  },
+  {
+    "id": 6,
+    "age": "0-8岁",
+    "scene": "起床",
+    "english": "Good morning!",
+    "chinese": "早上好！",
+    "action": "微笑挥手。",
+    "response": "挥手或说 Good morning。",
+    "audio": "good-morning.mp3"
+  },
+  {
+    "id": 7,
+    "age": "3-8岁",
+    "scene": "起床",
+    "english": "Did you sleep well?",
+    "chinese": "你睡得好吗？",
+    "action": "轻声询问。",
+    "response": "点头或回答 Yes。",
+    "audio": "did-you-sleep-well.mp3"
+  },
+  {
+    "id": 8,
+    "age": "3-8岁",
+    "scene": "起床",
+    "english": "Time to start the day.",
+    "chinese": "新的一天开始啦。",
+    "action": "打开窗帘，指向窗外。",
+    "response": "看窗外。",
+    "audio": "time-to-start-the-day.mp3"
+  },
+  {
+    "id": 9,
+    "age": "3-8岁",
+    "scene": "起床",
+    "english": "Let’s make the bed.",
+    "chinese": "我们整理床铺吧。",
+    "action": "拉平被子。",
+    "response": "一起整理被子。",
+    "audio": "lets-make-the-bed.mp3"
+  },
+  {
+    "id": 10,
+    "age": "0-8岁",
+    "scene": "起床",
+    "english": "Come here for a hug.",
+    "chinese": "过来抱抱。",
+    "action": "张开双臂。",
+    "response": "跑过来拥抱。",
+    "audio": "come-here-for-a-hug.mp3"
   }
 ]
