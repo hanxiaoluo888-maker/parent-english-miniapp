@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -99,5 +98,905 @@
     "action": "张开双臂。",
     "response": "跑过来拥抱。",
     "audio": "come-here-for-a-hug.mp3"
+  },
+  {
+    "id": 11,
+    "age": "1-5岁",
+    "scene": "穿衣",
+    "english": "Put on your shirt.",
+    "chinese": "穿上你的上衣。",
+    "action": "拿起上衣，帮孩子套上。",
+    "response": "伸手配合。",
+    "audio": "put-on-your-shirt.mp3"
+  },
+  {
+    "id": 12,
+    "age": "1-5岁",
+    "scene": "穿衣",
+    "english": "Put on your pants.",
+    "chinese": "穿上你的裤子。",
+    "action": "拿起裤子，指裤腿。",
+    "response": "抬腿。",
+    "audio": "put-on-your-pants.mp3"
+  },
+  {
+    "id": 13,
+    "age": "1-5岁",
+    "scene": "穿衣",
+    "english": "Put on your socks.",
+    "chinese": "穿上你的袜子。",
+    "action": "把袜子递给孩子。",
+    "response": "拿袜子或抬脚。",
+    "audio": "put-on-your-socks.mp3"
+  },
+  {
+    "id": 14,
+    "age": "1-6岁",
+    "scene": "穿衣",
+    "english": "Put on your shoes.",
+    "chinese": "穿上你的鞋子。",
+    "action": "把鞋放到脚边。",
+    "response": "伸脚穿鞋。",
+    "audio": "put-on-your-shoes.mp3"
+  },
+  {
+    "id": 15,
+    "age": "2-6岁",
+    "scene": "穿衣",
+    "english": "Take off your pajamas.",
+    "chinese": "脱掉睡衣。",
+    "action": "指睡衣，做脱衣动作。",
+    "response": "尝试脱衣服。",
+    "audio": "take-off-your-pajamas.mp3"
+  },
+  {
+    "id": 16,
+    "age": "2-6岁",
+    "scene": "穿衣",
+    "english": "Zip it up.",
+    "chinese": "把拉链拉上。",
+    "action": "示范拉拉链。",
+    "response": "尝试拉拉链。",
+    "audio": "zip-it-up.mp3"
+  },
+  {
+    "id": 17,
+    "age": "3-8岁",
+    "scene": "穿衣",
+    "english": "Button your coat.",
+    "chinese": "扣上外套扣子。",
+    "action": "示范扣扣子。",
+    "response": "自己扣扣子。",
+    "audio": "button-your-coat.mp3"
+  },
+  {
+    "id": 18,
+    "age": "2-6岁",
+    "scene": "穿衣",
+    "english": "This is the front.",
+    "chinese": "这是前面。",
+    "action": "指衣服前面。",
+    "response": "分辨正反。",
+    "audio": "this-is-the-front.mp3"
+  },
+  {
+    "id": 19,
+    "age": "3-8岁",
+    "scene": "穿衣",
+    "english": "Your shoes are on the wrong feet.",
+    "chinese": "你的鞋穿反了。",
+    "action": "指左右脚。",
+    "response": "换鞋。",
+    "audio": "your-shoes-are-on-the-wrong-feet.mp3"
+  },
+  {
+    "id": 20,
+    "age": "2-8岁",
+    "scene": "穿衣",
+    "english": "You look great today.",
+    "chinese": "你今天看起来很棒。",
+    "action": "竖大拇指。",
+    "response": "微笑或说 Thank you。",
+    "audio": "you-look-great-today.mp3"
+  },
+  {
+    "id": 21,
+    "age": "1-6岁",
+    "scene": "洗漱",
+    "english": "Let’s brush your teeth.",
+    "chinese": "我们刷牙吧。",
+    "action": "拿牙刷。",
+    "response": "张嘴或拿牙刷。",
+    "audio": "lets-brush-your-teeth.mp3"
+  },
+  {
+    "id": 22,
+    "age": "0-5岁",
+    "scene": "洗漱",
+    "english": "Open your mouth.",
+    "chinese": "张开嘴。",
+    "action": "做张嘴动作。",
+    "response": "张嘴。",
+    "audio": "open-your-mouth.mp3"
+  },
+  {
+    "id": 23,
+    "age": "2-7岁",
+    "scene": "洗漱",
+    "english": "Brush up and down.",
+    "chinese": "上下刷。",
+    "action": "示范上下刷牙。",
+    "response": "模仿刷牙。",
+    "audio": "brush-up-and-down.mp3"
+  },
+  {
+    "id": 24,
+    "age": "2-7岁",
+    "scene": "洗漱",
+    "english": "Rinse your mouth.",
+    "chinese": "漱漱口。",
+    "action": "递水杯。",
+    "response": "漱口。",
+    "audio": "rinse-your-mouth.mp3"
+  },
+  {
+    "id": 25,
+    "age": "1-6岁",
+    "scene": "洗漱",
+    "english": "Wash your face.",
+    "chinese": "洗洗脸。",
+    "action": "拿毛巾擦脸。",
+    "response": "配合擦脸。",
+    "audio": "wash-your-face.mp3"
+  },
+  {
+    "id": 26,
+    "age": "0-8岁",
+    "scene": "洗漱",
+    "english": "Wash your hands.",
+    "chinese": "洗洗手。",
+    "action": "打开水龙头。",
+    "response": "伸手洗。",
+    "audio": "wash-your-hands.mp3"
+  },
+  {
+    "id": 27,
+    "age": "2-8岁",
+    "scene": "洗漱",
+    "english": "Use some soap.",
+    "chinese": "用点肥皂。",
+    "action": "按洗手液。",
+    "response": "搓手。",
+    "audio": "use-some-soap.mp3"
+  },
+  {
+    "id": 28,
+    "age": "1-8岁",
+    "scene": "洗漱",
+    "english": "Dry your hands.",
+    "chinese": "把手擦干。",
+    "action": "递毛巾。",
+    "response": "擦手。",
+    "audio": "dry-your-hands.mp3"
+  },
+  {
+    "id": 29,
+    "age": "2-8岁",
+    "scene": "洗漱",
+    "english": "Comb your hair.",
+    "chinese": "梳梳头发。",
+    "action": "拿梳子。",
+    "response": "坐好或自己梳。",
+    "audio": "comb-your-hair.mp3"
+  },
+  {
+    "id": 30,
+    "age": "1-8岁",
+    "scene": "洗漱",
+    "english": "Look in the mirror.",
+    "chinese": "照照镜子。",
+    "action": "指镜子。",
+    "response": "看镜子。",
+    "audio": "look-in-the-mirror.mp3"
+  },
+  {
+    "id": 31,
+    "age": "1-8岁",
+    "scene": "吃饭",
+    "english": "Come to the table.",
+    "chinese": "到餐桌这边来。",
+    "action": "指餐桌。",
+    "response": "走到餐桌旁。",
+    "audio": "come-to-the-table.mp3"
+  },
+  {
+    "id": 32,
+    "age": "1-8岁",
+    "scene": "吃饭",
+    "english": "Sit down, please.",
+    "chinese": "请坐下。",
+    "action": "指椅子。",
+    "response": "坐下。",
+    "audio": "sit-down-please.mp3"
+  },
+  {
+    "id": 33,
+    "age": "0-3岁",
+    "scene": "吃饭",
+    "english": "Put on your bib.",
+    "chinese": "戴上围兜。",
+    "action": "拿围兜。",
+    "response": "低头配合。",
+    "audio": "put-on-your-bib.mp3"
+  },
+  {
+    "id": 34,
+    "age": "1-6岁",
+    "scene": "吃饭",
+    "english": "Take a bite.",
+    "chinese": "咬一口。",
+    "action": "指食物。",
+    "response": "吃一口。",
+    "audio": "take-a-bite.mp3"
+  },
+  {
+    "id": 35,
+    "age": "1-8岁",
+    "scene": "吃饭",
+    "english": "Chew slowly.",
+    "chinese": "慢慢嚼。",
+    "action": "做慢慢咀嚼动作。",
+    "response": "放慢速度。",
+    "audio": "chew-slowly.mp3"
+  },
+  {
+    "id": 36,
+    "age": "0-8岁",
+    "scene": "吃饭",
+    "english": "Drink some water.",
+    "chinese": "喝点水。",
+    "action": "递水杯。",
+    "response": "喝水。",
+    "audio": "drink-some-water.mp3"
+  },
+  {
+    "id": 37,
+    "age": "1-6岁",
+    "scene": "吃饭",
+    "english": "Use your spoon.",
+    "chinese": "用你的勺子。",
+    "action": "把勺子放到孩子手里。",
+    "response": "拿勺子。",
+    "audio": "use-your-spoon.mp3"
+  },
+  {
+    "id": 38,
+    "age": "2-8岁",
+    "scene": "吃饭",
+    "english": "Don’t spill it.",
+    "chinese": "别洒出来。",
+    "action": "扶住碗或杯子。",
+    "response": "小心拿。",
+    "audio": "dont-spill-it.mp3"
+  },
+  {
+    "id": 39,
+    "age": "2-8岁",
+    "scene": "吃饭",
+    "english": "Are you full?",
+    "chinese": "你吃饱了吗？",
+    "action": "轻声询问。",
+    "response": "点头或回答 Yes。",
+    "audio": "are-you-full.mp3"
+  },
+  {
+    "id": 40,
+    "age": "1-8岁",
+    "scene": "吃饭",
+    "english": "Wipe your mouth.",
+    "chinese": "擦擦嘴。",
+    "action": "递纸巾。",
+    "response": "擦嘴。",
+    "audio": "wipe-your-mouth.mp3"
+  },
+  {
+    "id": 41,
+    "age": "1-8岁",
+    "scene": "出门",
+    "english": "Let’s go out.",
+    "chinese": "我们出门吧。",
+    "action": "指门口。",
+    "response": "走向门口。",
+    "audio": "lets-go-out.mp3"
+  },
+  {
+    "id": 42,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "Get your bag.",
+    "chinese": "拿上你的包。",
+    "action": "指书包或小包。",
+    "response": "拿包。",
+    "audio": "get-your-bag.mp3"
+  },
+  {
+    "id": 43,
+    "age": "1-6岁",
+    "scene": "出门",
+    "english": "Put on your hat.",
+    "chinese": "戴上帽子。",
+    "action": "拿帽子。",
+    "response": "低头配合。",
+    "audio": "put-on-your-hat.mp3"
+  },
+  {
+    "id": 44,
+    "age": "1-8岁",
+    "scene": "出门",
+    "english": "Hold my hand.",
+    "chinese": "牵着我的手。",
+    "action": "伸出手。",
+    "response": "牵手。",
+    "audio": "hold-my-hand.mp3"
+  },
+  {
+    "id": 45,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "Wait for me.",
+    "chinese": "等等我。",
+    "action": "示意停一下。",
+    "response": "停下等待。",
+    "audio": "wait-for-me.mp3"
+  },
+  {
+    "id": 46,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "Close the door.",
+    "chinese": "关上门。",
+    "action": "指门。",
+    "response": "关门。",
+    "audio": "close-the-door.mp3"
+  },
+  {
+    "id": 47,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "Be careful on the stairs.",
+    "chinese": "走楼梯要小心。",
+    "action": "扶着孩子下楼。",
+    "response": "慢慢走。",
+    "audio": "be-careful-on-the-stairs.mp3"
+  },
+  {
+    "id": 48,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "Watch your step.",
+    "chinese": "注意脚下。",
+    "action": "指地面。",
+    "response": "低头看路。",
+    "audio": "watch-your-step.mp3"
+  },
+  {
+    "id": 49,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "Stay close to me.",
+    "chinese": "离我近一点。",
+    "action": "招手。",
+    "response": "靠近妈妈。",
+    "audio": "stay-close-to-me.mp3"
+  },
+  {
+    "id": 50,
+    "age": "2-8岁",
+    "scene": "出门",
+    "english": "We are ready to go.",
+    "chinese": "我们准备好出发啦。",
+    "action": "挥手出发。",
+    "response": "跟着走。",
+    "audio": "we-are-ready-to-go.mp3"
+  },
+  {
+    "id": 51,
+    "age": "1-8岁",
+    "scene": "坐车",
+    "english": "Get in the car.",
+    "chinese": "上车。",
+    "action": "打开车门。",
+    "response": "上车。",
+    "audio": "get-in-the-car.mp3"
+  },
+  {
+    "id": 52,
+    "age": "1-8岁",
+    "scene": "坐车",
+    "english": "Sit in your seat.",
+    "chinese": "坐到你的座位上。",
+    "action": "指儿童座椅。",
+    "response": "坐好。",
+    "audio": "sit-in-your-seat.mp3"
+  },
+  {
+    "id": 53,
+    "age": "1-8岁",
+    "scene": "坐车",
+    "english": "Buckle up.",
+    "chinese": "系好安全带。",
+    "action": "帮孩子系安全带。",
+    "response": "配合坐好。",
+    "audio": "buckle-up.mp3"
+  },
+  {
+    "id": 54,
+    "age": "2-8岁",
+    "scene": "坐车",
+    "english": "Don’t open the door.",
+    "chinese": "不要开车门。",
+    "action": "指车门锁。",
+    "response": "不碰车门。",
+    "audio": "dont-open-the-door.mp3"
+  },
+  {
+    "id": 55,
+    "age": "1-8岁",
+    "scene": "坐车",
+    "english": "Look out the window.",
+    "chinese": "看看窗外。",
+    "action": "指窗外。",
+    "response": "看窗外。",
+    "audio": "look-out-the-window.mp3"
+  },
+  {
+    "id": 56,
+    "age": "3-8岁",
+    "scene": "坐车",
+    "english": "What do you see?",
+    "chinese": "你看到了什么？",
+    "action": "指窗外事物。",
+    "response": "说出看到的东西。",
+    "audio": "what-do-you-see.mp3"
+  },
+  {
+    "id": 57,
+    "age": "2-8岁",
+    "scene": "坐车",
+    "english": "The light is red.",
+    "chinese": "红灯亮了。",
+    "action": "指红绿灯。",
+    "response": "看红灯。",
+    "audio": "the-light-is-red.mp3"
+  },
+  {
+    "id": 58,
+    "age": "2-8岁",
+    "scene": "坐车",
+    "english": "The light is green.",
+    "chinese": "绿灯亮了。",
+    "action": "指红绿灯。",
+    "response": "说 green。",
+    "audio": "the-light-is-green.mp3"
+  },
+  {
+    "id": 59,
+    "age": "2-8岁",
+    "scene": "坐车",
+    "english": "We are almost there.",
+    "chinese": "我们快到了。",
+    "action": "指前方。",
+    "response": "准备下车。",
+    "audio": "we-are-almost-there.mp3"
+  },
+  {
+    "id": 60,
+    "age": "1-8岁",
+    "scene": "坐车",
+    "english": "Let’s get out.",
+    "chinese": "我们下车吧。",
+    "action": "打开车门。",
+    "response": "下车。",
+    "audio": "lets-get-out.mp3"
+  },
+  {
+    "id": 61,
+    "age": "1-8岁",
+    "scene": "公园",
+    "english": "Let’s go to the park.",
+    "chinese": "我们去公园吧。",
+    "action": "指向公园。",
+    "response": "走向公园。",
+    "audio": "lets-go-to-the-park.mp3"
+  },
+  {
+    "id": 62,
+    "age": "1-6岁",
+    "scene": "公园",
+    "english": "Look at the tree.",
+    "chinese": "看那棵树。",
+    "action": "指树。",
+    "response": "看树。",
+    "audio": "look-at-the-tree.mp3"
+  },
+  {
+    "id": 63,
+    "age": "1-6岁",
+    "scene": "公园",
+    "english": "Touch the grass.",
+    "chinese": "摸摸草地。",
+    "action": "蹲下摸草。",
+    "response": "摸草。",
+    "audio": "touch-the-grass.mp3"
+  },
+  {
+    "id": 64,
+    "age": "1-6岁",
+    "scene": "公园",
+    "english": "Smell the flower.",
+    "chinese": "闻闻花。",
+    "action": "靠近花闻一闻。",
+    "response": "模仿闻花。",
+    "audio": "smell-the-flower.mp3"
+  },
+  {
+    "id": 65,
+    "age": "2-8岁",
+    "scene": "公园",
+    "english": "Do you see a bird?",
+    "chinese": "你看到小鸟了吗？",
+    "action": "指天空或树上。",
+    "response": "找小鸟。",
+    "audio": "do-you-see-a-bird.mp3"
+  },
+  {
+    "id": 66,
+    "age": "2-8岁",
+    "scene": "公园",
+    "english": "The bird is flying.",
+    "chinese": "小鸟在飞。",
+    "action": "做飞的动作。",
+    "response": "模仿飞。",
+    "audio": "the-bird-is-flying.mp3"
+  },
+  {
+    "id": 67,
+    "age": "2-8岁",
+    "scene": "公园",
+    "english": "Run slowly.",
+    "chinese": "慢慢跑。",
+    "action": "做慢跑动作。",
+    "response": "慢慢跑。",
+    "audio": "run-slowly.mp3"
+  },
+  {
+    "id": 68,
+    "age": "2-8岁",
+    "scene": "公园",
+    "english": "Don’t go too far.",
+    "chinese": "不要跑太远。",
+    "action": "招手让孩子回来。",
+    "response": "回到妈妈身边。",
+    "audio": "dont-go-too-far.mp3"
+  },
+  {
+    "id": 69,
+    "age": "2-8岁",
+    "scene": "公园",
+    "english": "Let’s sit on the bench.",
+    "chinese": "我们坐在长椅上吧。",
+    "action": "指长椅。",
+    "response": "坐下。",
+    "audio": "lets-sit-on-the-bench.mp3"
+  },
+  {
+    "id": 70,
+    "age": "2-8岁",
+    "scene": "公园",
+    "english": "It’s time to go home.",
+    "chinese": "该回家了。",
+    "action": "挥手告别公园。",
+    "response": "跟着回家。",
+    "audio": "its-time-to-go-home.mp3"
+  },
+  {
+    "id": 71,
+    "age": "1-8岁",
+    "scene": "玩具",
+    "english": "Let’s play with blocks.",
+    "chinese": "我们玩积木吧。",
+    "action": "拿出积木。",
+    "response": "开始搭积木。",
+    "audio": "lets-play-with-blocks.mp3"
+  },
+  {
+    "id": 72,
+    "age": "2-8岁",
+    "scene": "玩具",
+    "english": "Build a tower.",
+    "chinese": "搭一座塔。",
+    "action": "把积木一块块叠高。",
+    "response": "跟着搭高。",
+    "audio": "build-a-tower.mp3"
+  },
+  {
+    "id": 73,
+    "age": "2-8岁",
+    "scene": "玩具",
+    "english": "Stack them up.",
+    "chinese": "把它们叠起来。",
+    "action": "示范叠积木。",
+    "response": "叠起来。",
+    "audio": "stack-them-up.mp3"
+  },
+  {
+    "id": 74,
+    "age": "1-6岁",
+    "scene": "玩具",
+    "english": "Knock it down.",
+    "chinese": "把它推倒。",
+    "action": "轻轻推倒积木。",
+    "response": "推倒积木。",
+    "audio": "knock-it-down.mp3"
+  },
+  {
+    "id": 75,
+    "age": "1-6岁",
+    "scene": "玩具",
+    "english": "Where is the ball?",
+    "chinese": "球在哪里？",
+    "action": "把球藏起来。",
+    "response": "找球。",
+    "audio": "where-is-the-ball.mp3"
+  },
+  {
+    "id": 76,
+    "age": "1-6岁",
+    "scene": "玩具",
+    "english": "Roll the ball.",
+    "chinese": "滚球。",
+    "action": "把球滚过去。",
+    "response": "把球滚回来。",
+    "audio": "roll-the-ball.mp3"
+  },
+  {
+    "id": 77,
+    "age": "2-8岁",
+    "scene": "玩具",
+    "english": "Throw the ball.",
+    "chinese": "扔球。",
+    "action": "轻轻扔球。",
+    "response": "扔球。",
+    "audio": "throw-the-ball.mp3"
+  },
+  {
+    "id": 78,
+    "age": "2-8岁",
+    "scene": "玩具",
+    "english": "Catch the ball.",
+    "chinese": "接球。",
+    "action": "把球轻轻抛过去。",
+    "response": "接球。",
+    "audio": "catch-the-ball.mp3"
+  },
+  {
+    "id": 79,
+    "age": "2-8岁",
+    "scene": "玩具",
+    "english": "Put the toys away.",
+    "chinese": "把玩具收起来。",
+    "action": "拿出收纳盒。",
+    "response": "收玩具。",
+    "audio": "put-the-toys-away.mp3"
+  },
+  {
+    "id": 80,
+    "age": "2-8岁",
+    "scene": "玩具",
+    "english": "Good job cleaning up.",
+    "chinese": "收拾得真棒。",
+    "action": "竖大拇指。",
+    "response": "微笑或说 Thank you。",
+    "audio": "good-job-cleaning-up.mp3"
+  },
+  {
+    "id": 81,
+    "age": "0-6岁",
+    "scene": "洗澡",
+    "english": "It’s bath time.",
+    "chinese": "洗澡时间到了。",
+    "action": "准备浴巾和洗澡水。",
+    "response": "走向浴室。",
+    "audio": "its-bath-time.mp3"
+  },
+  {
+    "id": 82,
+    "age": "1-6岁",
+    "scene": "洗澡",
+    "english": "Take off your clothes.",
+    "chinese": "脱掉衣服。",
+    "action": "帮孩子脱衣服。",
+    "response": "配合脱衣。",
+    "audio": "take-off-your-clothes.mp3"
+  },
+  {
+    "id": 83,
+    "age": "1-5岁",
+    "scene": "洗澡",
+    "english": "Step into the tub.",
+    "chinese": "进浴盆里。",
+    "action": "扶孩子进浴盆。",
+    "response": "慢慢进去。",
+    "audio": "step-into-the-tub.mp3"
+  },
+  {
+    "id": 84,
+    "age": "0-6岁",
+    "scene": "洗澡",
+    "english": "The water is warm.",
+    "chinese": "水是温的。",
+    "action": "用手试水温。",
+    "response": "摸摸水。",
+    "audio": "the-water-is-warm.mp3"
+  },
+  {
+    "id": 85,
+    "age": "0-8岁",
+    "scene": "洗澡",
+    "english": "Wash your hair.",
+    "chinese": "洗洗头发。",
+    "action": "轻轻揉头发。",
+    "response": "低头配合。",
+    "audio": "wash-your-hair.mp3"
+  },
+  {
+    "id": 86,
+    "age": "1-6岁",
+    "scene": "洗澡",
+    "english": "Close your eyes.",
+    "chinese": "闭上眼睛。",
+    "action": "示范闭眼。",
+    "response": "闭眼。",
+    "audio": "close-your-eyes.mp3"
+  },
+  {
+    "id": 87,
+    "age": "0-5岁",
+    "scene": "洗澡",
+    "english": "Wash your tummy.",
+    "chinese": "洗洗肚子。",
+    "action": "轻轻洗肚子。",
+    "response": "摸肚子。",
+    "audio": "wash-your-tummy.mp3"
+  },
+  {
+    "id": 88,
+    "age": "1-6岁",
+    "scene": "洗澡",
+    "english": "Wash your feet.",
+    "chinese": "洗洗脚。",
+    "action": "指脚。",
+    "response": "抬脚。",
+    "audio": "wash-your-feet.mp3"
+  },
+  {
+    "id": 89,
+    "age": "0-6岁",
+    "scene": "洗澡",
+    "english": "Let’s dry off.",
+    "chinese": "我们擦干身体吧。",
+    "action": "拿浴巾包住孩子。",
+    "response": "站好或配合擦干。",
+    "audio": "lets-dry-off.mp3"
+  },
+  {
+    "id": 90,
+    "age": "1-6岁",
+    "scene": "洗澡",
+    "english": "Put on your pajamas.",
+    "chinese": "穿上睡衣。",
+    "action": "拿睡衣。",
+    "response": "伸手穿衣。",
+    "audio": "put-on-your-pajamas.mp3"
+  },
+  {
+    "id": 91,
+    "age": "0-8岁",
+    "scene": "睡觉",
+    "english": "It’s bedtime.",
+    "chinese": "到睡觉时间了。",
+    "action": "关小灯。",
+    "response": "走向床边。",
+    "audio": "its-bedtime.mp3"
+  },
+  {
+    "id": 92,
+    "age": "1-8岁",
+    "scene": "睡觉",
+    "english": "Go to your bed.",
+    "chinese": "去你的床上。",
+    "action": "指床。",
+    "response": "上床。",
+    "audio": "go-to-your-bed.mp3"
+  },
+  {
+    "id": 93,
+    "age": "0-8岁",
+    "scene": "睡觉",
+    "english": "Lie down, please.",
+    "chinese": "请躺下。",
+    "action": "轻轻拍拍床。",
+    "response": "躺下。",
+    "audio": "lie-down-please.mp3"
+  },
+  {
+    "id": 94,
+    "age": "1-8岁",
+    "scene": "睡觉",
+    "english": "Pull up the blanket.",
+    "chinese": "把被子拉上来。",
+    "action": "帮孩子盖被子。",
+    "response": "拉被子。",
+    "audio": "pull-up-the-blanket.mp3"
+  },
+  {
+    "id": 95,
+    "age": "2-8岁",
+    "scene": "睡觉",
+    "english": "Do you want a story?",
+    "chinese": "你想听故事吗？",
+    "action": "拿绘本。",
+    "response": "点头或选书。",
+    "audio": "do-you-want-a-story.mp3"
+  },
+  {
+    "id": 96,
+    "age": "1-8岁",
+    "scene": "睡觉",
+    "english": "Let’s read one book.",
+    "chinese": "我们读一本书吧。",
+    "action": "打开绘本。",
+    "response": "看书。",
+    "audio": "lets-read-one-book.mp3"
+  },
+  {
+    "id": 97,
+    "age": "0-8岁",
+    "scene": "睡觉",
+    "english": "Give me a kiss.",
+    "chinese": "亲我一下。",
+    "action": "指脸颊。",
+    "response": "亲妈妈。",
+    "audio": "give-me-a-kiss.mp3"
+  },
+  {
+    "id": 98,
+    "age": "0-8岁",
+    "scene": "睡觉",
+    "english": "Close your eyes.",
+    "chinese": "闭上眼睛。",
+    "action": "轻轻闭眼示范。",
+    "response": "闭眼。",
+    "audio": "close-your-eyes.mp3"
+  },
+  {
+    "id": 99,
+    "age": "0-8岁",
+    "scene": "睡觉",
+    "english": "Sweet dreams.",
+    "chinese": "做个好梦。",
+    "action": "轻拍孩子。",
+    "response": "安静入睡。",
+    "audio": "sweet-dreams.mp3"
+  },
+  {
+    "id": 100,
+    "age": "0-8岁",
+    "scene": "睡觉",
+    "english": "I love you.",
+    "chinese": "我爱你。",
+    "action": "拥抱孩子。",
+    "response": "拥抱或说 I love you。",
+    "audio": "i-love-you.mp3"
   }
 ]
